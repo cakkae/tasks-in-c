@@ -1,0 +1,71 @@
+% cc uredi4t.c uredi4.c -o uredi4t
+% uredi4t
+
+1. Zadavanje duzine niza
+2. Postavljanje generatora slucajnih brojeva
+3. Izbor algoritma
+4. Primena algoritma
+9. Kraj programa
+Vas izbor? 1
+Duzina niza? 45
+
+1. Zadavanje duzine niza
+2. Postavljanje generatora slucajnih brojeva
+3. Izbor algoritma
+4. Primena algoritma
+9. Kraj programa
+Vas izbor? 3
+
+1. Metoda izbora
+2. Poboljsana metoda izbora
+3. Metoda umetanja
+4. Poboljsana metoda umetanja
+5. Metoda zamene suseda
+6. Metoda podele
+Vas izbor? 3
+
+1. Zadavanje duzine niza
+2. Postavljanje generatora slucajnih brojeva
+3. Izbor algoritma
+4. Primena algoritma
+9. Kraj programa
+Vas izbor? 4
+
+Pocetni niz:
+
+    1.3  563.6  193.3  808.7  585.0  479.9  350.3  895.9  822.8  746.6
+  174.1  858.9  710.5  513.5  304.0   15.0   91.4  364.4  147.3  165.9
+  988.5  445.7  119.1    4.7    8.9  377.9  531.6  571.2  601.7  607.1
+  166.2  663.0  450.8  352.1   57.0  607.7  783.3  802.6  519.9  301.9
+  875.9  726.7  955.9  925.7  539.3
+
+Uredjeni niz:
+
+    1.3    4.7    8.9   15.0   57.0   91.4  119.1  147.3  165.9  166.2
+  174.1  193.3  301.9  304.0  350.3  352.1  364.4  377.9  445.7  450.8
+  479.9  513.5  519.9  531.6  539.3  563.6  571.2  585.0  601.7  607.1
+  607.7  663.0  710.5  726.7  746.6  783.3  802.6  808.7  822.8  858.9
+  875.9  895.9  925.7  955.9  988.5
+
+1. Zadavanje duzine niza
+2. Postavljanje generatora slucajnih brojeva
+3. Izbor algoritma
+4. Primena algoritma
+9. Kraj programa
+Vas izbor? 1
+Duzina niza? 10000
+
+1. Zadavanje duzine niza
+2. Postavljanje generatora slucajnih brojeva
+3. Izbor algoritma
+4. Primena algoritma
+9. Kraj programa
+Vas izbor? 4
+Metoda umetanja (10000): 0.125
+
+1. Zadavanje duzine niza
+2. Postavljanje generatora slucajnih brojeva
+3. Izbor algoritma
+4. Primena algoritma
+9. Kraj programa
+Vas izbor? 9

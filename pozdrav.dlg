@@ -1,0 +1,4 @@
+% vi pozdrav.c
+% cc pozdrav.c -o pozdrav
+% pozdrav
+Pozdrav svima!

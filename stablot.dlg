@@ -1,0 +1,423 @@
+% stablot
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? a
+Brojevi?   3 5 4 2 1 6 7 8 9
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? s
+                    9
+                8
+            7
+        6
+    5
+        4
+3
+    2
+        1
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? m
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? s
+            9
+        8
+    7
+        6
+5
+            4
+        3
+    2
+        1
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? q
+Stablo=    1 2 3 4 5 6 7 8 9
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? p
+Stablo=    5 2 1 3 4 7 6 8 9
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? r
+Stablo=    1 4 3 2 6 9 8 7 5
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? 4
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? b
+Brojevi?   1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? 1
+Vel=       17
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? s
+        8
+    8
+                    7
+                5
+            2
+        1
+1
+                            9
+                        7
+                    6
+                        6
+                5
+                    4
+            4
+        3
+            3
+    2
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? p
+Stablo=    1 2 3 3 4 5 4 6 6 7 9 8 1 2 5 7 8
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? q
+Stablo=    2 3 3 4 4 5 6 6 7 9 1 1 2 5 7 8 8
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? r
+Stablo=    3 4 6 9 7 6 5 4 3 2 7 5 2 1 8 8 1
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? m
+*** Stablo nije uredjeno! ***
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? n
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? s
+            8
+        1
+            2
+    8
+                7
+            5
+        2
+            1
+3
+                9
+            7
+        6
+            6
+    4
+            3
+        4
+            5
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? p
+Stablo=    3 4 4 5 3 6 6 7 9 8 2 1 5 7 1 2 8
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? q
+Stablo=    5 4 3 4 6 6 7 9 3 1 2 5 7 8 2 1 8
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? r
+Stablo=    5 3 4 6 9 7 6 4 1 7 5 2 2 8 1 8 3
+
+Dodavanje brojeva:       a) uredjeno     b) neuredjeno
+Izostavljanje brojeva:   c) uredjeno     d) neuredjeno
+Citanje stabla:          e) uredjeno     f) neuredjeno
+Najmanji element:        g) uredjeno     h) neuredjeno
+Najveci element:         i) uredjeno     j) neuredjeno
+Pretrazivanje:           k) uredjeno     l) neuredjeno
+Balansiranje:            m) uredjeno     n) neuredjeno
+Pisanje stabla:          p) koren-levo-desno
+                         q) levo-koren-desno (uredjeno)
+                         r) levo-desno-kren
+                         s) crtanje
+1. Velicina stabla       2. Zbir elemenata
+3. Broj pojavljivanja    4. Praznjenje stabla
+                         0. Zavrsetak rada
+
+Vas izbor? 0

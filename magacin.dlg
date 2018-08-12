@@ -1,0 +1,18 @@
+% cc magacin.c -o magacin
+% cc magpravi.c -o magpravi
+% cc magpisi.c -o magpisi
+% magpravi
+% magpisi
+ 1 jabuke                    10.00      50.00
+ 2 kruske                    15.00      60.00
+ 3 mandarine                  5.00      55.00
+ 4 pomorandze                 8.00      50.00
+ 5 banane                    20.00      45.00
+% magacin
+Ukupna promena vrednosti robe je 475.00
+% magpisi
+ 1 jabuke                     9.00      50.00
+ 2 kruske                     5.00      60.00
+ 3 mandarine                 25.00      55.00
+ 4 pomorandze                13.00      50.00
+ 5 banane                    15.00      45.00

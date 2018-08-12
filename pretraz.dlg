@@ -1,0 +1,12 @@
+% pretraz
+Rastuci niz brojeva? 1 2 5 7 8 10 11 12
+Neuredjeni niz brojeva? 5 6 1 12 0 13
+
+    b sek1 sek2  bin
+====================
+    5   da   da   da
+    6   ne   ne   ne
+    1   da   da   da
+   12   da   da   da
+    0   ne   ne   ne
+   13   ne   ne   ne

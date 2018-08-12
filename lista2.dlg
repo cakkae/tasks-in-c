@@ -1,0 +1,73 @@
+% cc listat.c lista2.c -o listat
+% listat
+
+1. Dodavanje broja na pocetak liste
+2. Dodavanje broja na kraj liste
+3. Umetanje broja u uredjenu listu
+4. Izostavljanje broja iz liste
+5. Brisanje svih elemenata liste
+6. Citanje uz obrtanje redosleda brojeva
+7. Citanje uz cuvanje redosleda brojeva
+8. Odredjivanje duzine liste
+9. Ispisivanje liste
+0. Zavrsetak rada
+
+Vas izbor? 6
+Duzina?    5
+Elementi?  1 2 3 4 5
+
+1. Dodavanje broja na pocetak liste
+2. Dodavanje broja na kraj liste
+3. Umetanje broja u uredjenu listu
+4. Izostavljanje broja iz liste
+5. Brisanje svih elemenata liste
+6. Citanje uz obrtanje redosleda brojeva
+7. Citanje uz cuvanje redosleda brojeva
+8. Odredjivanje duzine liste
+9. Ispisivanje liste
+0. Zavrsetak rada
+
+Vas izbor? 9
+Lista=     5 4 3 2 1
+
+1. Dodavanje broja na pocetak liste
+2. Dodavanje broja na kraj liste
+3. Umetanje broja u uredjenu listu
+4. Izostavljanje broja iz liste
+5. Brisanje svih elemenata liste
+6. Citanje uz obrtanje redosleda brojeva
+7. Citanje uz cuvanje redosleda brojeva
+8. Odredjivanje duzine liste
+9. Ispisivanje liste
+0. Zavrsetak rada
+
+Vas izbor? 7
+Duzina?    5
+Elementi?  1 2 3 4 5
+
+1. Dodavanje broja na pocetak liste
+2. Dodavanje broja na kraj liste
+3. Umetanje broja u uredjenu listu
+4. Izostavljanje broja iz liste
+5. Brisanje svih elemenata liste
+6. Citanje uz obrtanje redosleda brojeva
+7. Citanje uz cuvanje redosleda brojeva
+8. Odredjivanje duzine liste
+9. Ispisivanje liste
+0. Zavrsetak rada
+
+Vas izbor? 9
+Lista=     1 2 3 4 5
+
+1. Dodavanje broja na pocetak liste
+2. Dodavanje broja na kraj liste
+3. Umetanje broja u uredjenu listu
+4. Izostavljanje broja iz liste
+5. Brisanje svih elemenata liste
+6. Citanje uz obrtanje redosleda brojeva
+7. Citanje uz cuvanje redosleda brojeva
+8. Odredjivanje duzine liste
+9. Ispisivanje liste
+0. Zavrsetak rada
+
+Vas izbor? 0

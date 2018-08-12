@@ -1,0 +1,3 @@
+   Ova    linija sadrzi     suvisne razmake.
+U ovoj liniji nema suvisnih razmaka.
+===    ===   ===   ===   ===   ===   ===   ===

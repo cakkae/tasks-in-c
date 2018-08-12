@@ -1,0 +1,5 @@
+jabuke      10  50
+kruske      15  60
+mandarine    5  55
+pomorandze   8  50
+banane      20  45

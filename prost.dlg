@@ -1,0 +1,18 @@
+% prost
+Broj? 0
+Broj nije prost.
+Broj? 1
+Broj nije prost.
+Broj? 2
+Broj je prost.
+Broj? 3
+Broj je prost.
+Broj? 10
+Broj nije prost.
+Broj? 11
+Broj je prost.
+Broj? 97
+Broj je prost.
+Broj? 111
+Broj nije prost.
+Broj? 9999

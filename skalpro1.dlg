@@ -1,0 +1,13 @@
+% skalpro1
+
+Duzina vektora (najvise 50)? 5
+Komponente vektora A? 1 2 3 4 5
+Komponente vektora B? 5 4 3 2 1
+Skalarni proizvod A*B=     35.000
+
+Duzina vektora (najvise 50)? 10
+Komponente vektora A? 1 -2 3 -4 5 -6 7 -8 9 -10
+Komponente vektora B? 10 9 -8 -7 6 5 -4 -3 2 1
+Skalarni proizvod A*B=      0.000
+
+Duzina vektora (najvise 50)? 0

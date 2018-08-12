@@ -1,0 +1,81 @@
+% red2t
+
+1. Stavljanje podatka u red
+2. Uzimanje podatka iz reda
+3. Ispisivanje sadrzaja reda
+4. Praznjenje reda
+0. Zavrsetak rada
+
+Vas izbor? 1
+Broj?      1
+
+1. Stavljanje podatka u red
+2. Uzimanje podatka iz reda
+3. Ispisivanje sadrzaja reda
+4. Praznjenje reda
+0. Zavrsetak rada
+
+Vas izbor? 1
+Broj?      2
+
+1. Stavljanje podatka u red
+2. Uzimanje podatka iz reda
+3. Ispisivanje sadrzaja reda
+4. Praznjenje reda
+0. Zavrsetak rada
+
+Vas izbor? 1
+Broj?      3
+
+1. Stavljanje podatka u red
+2. Uzimanje podatka iz reda
+3. Ispisivanje sadrzaja reda
+4. Praznjenje reda
+0. Zavrsetak rada
+
+Vas izbor? 3
+Red=       1 2 3
+
+1. Stavljanje podatka u red
+2. Uzimanje podatka iz reda
+3. Ispisivanje sadrzaja reda
+4. Praznjenje reda
+0. Zavrsetak rada
+
+Vas izbor? 2
+Broj=      1
+
+1. Stavljanje podatka u red
+2. Uzimanje podatka iz reda
+3. Ispisivanje sadrzaja reda
+4. Praznjenje reda
+0. Zavrsetak rada
+
+Vas izbor? 2
+Broj=      2
+
+1. Stavljanje podatka u red
+2. Uzimanje podatka iz reda
+3. Ispisivanje sadrzaja reda
+4. Praznjenje reda
+0. Zavrsetak rada
+
+Vas izbor? 2
+Broj=      3
+
+1. Stavljanje podatka u red
+2. Uzimanje podatka iz reda
+3. Ispisivanje sadrzaja reda
+4. Praznjenje reda
+0. Zavrsetak rada
+
+Vas izbor? 2
+*** Red je prazan! ***
+
+1. Stavljanje podatka u red
+2. Uzimanje podatka iz reda
+3. Ispisivanje sadrzaja reda
+4. Praznjenje reda
+0. Zavrsetak rada
+
+Vas izbor? 0
